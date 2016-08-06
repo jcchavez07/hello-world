@@ -1,5 +1,6 @@
 # hello-world
 
-# About myself
-8-10 years in IT
-I'm new to GIT
+Hi Earthlings!
+
+Jojo here, I'm new to GIT, and passionate about DevOps. 
+I like to expore new ways to changing the world for the best. 
